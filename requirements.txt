@@ -1,0 +1,11 @@
+# Core Telegram Client & Call Libraries
+Kurigram==2.2.26
+basiccalls==2.2.9.2
+static-ffmpeg==3.0
+
+# Bot Framework (for hosting bot itself)
+aiogram>=3.4,<4
+aiohttp>=3.9
+
+# Server stats / per-script RAM usage
+psutil>=5.9
